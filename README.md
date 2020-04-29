@@ -1,6 +1,6 @@
 Software Dependencies
 ------------------------------
-(pip3 install <library>)
+(pip3 install \<library\>)
 - Python 3.7.2
 - numpy 1.18.1
 - scikit-learn (sklearn) 0.22.1 

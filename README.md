@@ -1,4 +1,4 @@
-Software Depedencies: 
+Software Dependencies: 
 ------------------------------
 (pip3 install <library>)
 Python 3.7.2

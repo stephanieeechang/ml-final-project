@@ -13,7 +13,7 @@ Software Dependencies
 
 Data set sources
 ------------------------------
-Data set is included in .zip file under folder 'abalone'
+Data set is included under folder 'abalone'
 - Original owners of database:  
   Marine Resources Division  
   Marine Research Laboratories - Taroona  

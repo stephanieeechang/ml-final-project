@@ -11,7 +11,22 @@ Software Dependencies
 - tensorflow 2.1.0
 - imbalanced-learn (imblearn) 0.6.2
 
+Data set sources
+------------------------------
 Data set is included in .zip file under folder 'abalone'
+- Original owners of database:  
+  Marine Resources Division  
+  Marine Research Laboratories - Taroona  
+  Department of Primary Industry and Fisheries, Tasmania  
+  GPO Box 619F, Hobart, Tasmania 7001, Australia  
+  (contact: Warwick Nash +61 02 277277, wnash@dpi.tas.gov.au)
+
+- Donor of database:  
+	Sam Waugh (Sam.Waugh@cs.utas.edu.au)  
+	Department of Computer Science, University of Tasmania  
+	GPO Box 252C, Hobart, Tasmania 7001, Australia
+
+- Date received: December 1995
 
 Instructions
 ------------------------------

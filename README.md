@@ -1,15 +1,15 @@
-Software Dependencies: 
+Software Dependencies
 ------------------------------
 (pip3 install <library>)
-Python 3.7.2
-numpy 1.18.1
-scikit-learn (sklearn) 0.22.1 
-Keras 2.3.1
-Keras-Applications 1.0.8
-Keras-Preprocessing 1.1.0
-scipy 1.4.1
-tensorflow 2.1.0
-imbalanced-learn (imblearn) 0.6.2
+- Python 3.7.2
+- numpy 1.18.1
+- scikit-learn (sklearn) 0.22.1 
+- Keras 2.3.1
+- Keras-Applications 1.0.8
+- Keras-Preprocessing 1.1.0
+- scipy 1.4.1
+- tensorflow 2.1.0
+- imbalanced-learn (imblearn) 0.6.2
 
 Data set is included in .zip file under folder 'abalone'
 
